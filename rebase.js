@@ -14,3 +14,6 @@ const upi = "Integrated UPI system"
 console.log(upi)
 
 console.log("new branch created");
+
+const cartFunction = "Added the cart functionality"
+console.log(cartFunction);
