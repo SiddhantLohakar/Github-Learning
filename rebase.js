@@ -1,5 +1,4 @@
 const button  = "Added a button"
-
 console.log(button)
 
 const login = "Login page added"
@@ -9,7 +8,9 @@ const Payment = "Integrated the payment gateway"
 console.log(Payment)
 
 const footer = "Footer added";
-console.log(footer);;
+console.log(footer);
 
 const upi = "Integrated UPI system"
 console.log(upi)
+
+console.log("new branch created");
